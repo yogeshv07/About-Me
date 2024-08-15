@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yogeshv07
+- 👋 Hi, I’m Yogesh V
 - 👀 I’m interested in Web Designing and Software Development
 - 🌱 I’m currently learning Computer Science And Engineering
 - 📫 How to reach me on Mail
