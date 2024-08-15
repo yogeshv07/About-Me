@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yogeshv07
+- 👀 I’m interested in Web Designing and Software Development
+- 🌱 I’m currently learning Computer Science And Engineering
+- 📫 How to reach me on Mail
+- 2023-2027
